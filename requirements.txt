@@ -1,0 +1,6 @@
+
+conda install bioconda::fastqc v0.12.1
+conda install bioconda::trimmomatic v0.40
+conda install bioconda::fastp v1.0.1
+conda install bioconda::star v2.7.11b
+conda install bioconda::subread v2.1.1
