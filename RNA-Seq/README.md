@@ -4,7 +4,7 @@
 
 
 ### ✅ Install Anaconda
-Download and install Anaconda from the official website:
+Download and install Anaconda from the official website:  
 🔗 [https://www.anaconda.com/download](https://www.anaconda.com/download)
 
 Choose your operating system (Windows, macOS, or Linux) and follow the installer steps.
@@ -26,8 +26,7 @@ conda install r::r-base
 
 #### 2️⃣ Install RStudio Desktop
 
-Download RStudio Desktop from the official Posit website:
-
+Download RStudio Desktop from the official Posit website:  
 🔗 [https://posit.co/download/rstudio-desktop/](https://posit.co/download/rstudio-desktop/)
 
 Install the downloaded file for your operating system.
