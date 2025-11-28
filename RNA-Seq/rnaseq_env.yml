@@ -1,4 +1,4 @@
-name: ngs-env
+name: ngs
 channels:
   - conda-forge
   - bioconda
