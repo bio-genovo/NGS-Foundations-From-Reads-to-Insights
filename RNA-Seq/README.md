@@ -18,3 +18,16 @@ trimmomatic -version
 samtools --version
 STAR --version
 ```
+
+## Data Collection
+We will retrieve reads for SRR ID SRR849249 for the analysis.  
+
+__Using fasterq-dump (faster, multithreaded):__
+```
+fasterq-dump SRR849249 --split-files --threads 8 --progress
+```
+
+__Using fastq-dump (with gzip):__
+```
+fastq-dump --split-files --gzip SRR849249
+```
